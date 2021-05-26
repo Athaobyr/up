@@ -1,4 +1,5 @@
 <?php
+// Autor Sacchi
  require_once('config.php');
  require_once('conexao.php');
  require_once('Database.php');
